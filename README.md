@@ -13,7 +13,7 @@ I'm passionate about networking, technical support, and web development. I enjoy
 - 💻 Front-End Developer (HTML, CSS, JavaScript)
 - 📱 Android Application Development
 - 📡 Cisco Networking & Network Troubleshooting
-- 🌱 Currently learning Cloud Computing and Cybersecurity
+
 
 ---
 
@@ -27,9 +27,8 @@ I'm passionate about networking, technical support, and web development. I enjoy
 
 ### Web Development
 - HTML5
-- CSS3
+- CSS
 - JavaScript
-- Bootstrap
 - PHP
 - MySQL
 
