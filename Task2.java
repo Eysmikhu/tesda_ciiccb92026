@@ -7,13 +7,12 @@ public class Task2 {
         char l = 'l';
         byte zero = 0;
         String end = "rld";
-        short whole = 2;
-        float decimal = 0.0f;
+        float decimal = 2.0f;
         boolean check = true;
 
         String output = letter + "" + num + l + l + zero
                 + " w" + zero + end + " "
-                + whole + decimal + " " + check;
+                 + decimal + " " + check;
 
         System.out.println(output);
     }
