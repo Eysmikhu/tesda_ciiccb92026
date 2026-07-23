@@ -1,19 +1,19 @@
 public class Task2 {
+
     public static void main(String[] args) {
 
-        char h = 'H';
-        int three = 3;
+        char letter = 'H';
+        int num = 3;
         char l = 'l';
         byte zero = 0;
-        char space = ' ';
-        char w = 'w';
-        short two = 2;
+        String end = "rld";
+        short whole = 2;
         float decimal = 0.0f;
-        boolean truth = true;
+        boolean check = true;
 
-        String output = "" + h + three + l + l + zero
-                + space + w + zero + "rld "
-                + two + decimal + " " + truth;
+        String output = letter + "" + num + l + l + zero
+                + " w" + zero + end + " "
+                + whole + decimal + " " + check;
 
         System.out.println(output);
     }
